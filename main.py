@@ -21,4 +21,4 @@ async def el_isi_fikirleri(ctx):
     await ctx.send(random.choice(yok_olma_tarihleri))
 
 
-#Bu satıra kodda yaptığın değ'ş'kl'ker' ekleyeb'l'rs'n!
+#Bu satıra kodda yaptığım değişiklikeri ekleyebilirsin!
